@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shashank2k19.github.io/Shashank_Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
-## I'm a B.tech Student, Programmer, web Developer, Graphic Designer and a Freelancer!!
+## I'm a B.tech Student, Programmer, Web Developer, Graphic Designer and a Freelancer!!
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
@@ -47,38 +47,14 @@
 <br />
 <br />
 
----
-
-<!-- ### 📕 Latest Blog Posts -->
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shashank2k19&show_icons=true&hide_border=true" />
 
-</details>
-
 [website]: https://shashank2k19.github.io/Shashank_Portfolio/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/this_is_Shashnk
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/shashank._.shekhar_/?hl=en
+[linkedin]: https://www.linkedin.com/in/shashank-shekhar-523306156/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
