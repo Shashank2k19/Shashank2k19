@@ -1,7 +1,7 @@
 ### Hi there, I'm Shashank Shekhar 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shashank2k19.github.io/Shashank_Portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
+[![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shashank2k19.github.io/Shashank_Portfolio/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
