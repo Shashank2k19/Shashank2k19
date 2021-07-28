@@ -7,7 +7,7 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 🔭 I am pursuing B.Tech [ CSE ] at Institute of Technical Education & Research , Siksha 'O' Anushandhan University
+- 🔭 I am pursuing B.Tech [ CSE ] at ITER , Siksha 'O' Anushandhan University
 - 🌱 I’m currently learning Data Structure and Algorithm in Java 🔥
 - 👯 I’m looking to Work on Web development Projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects
