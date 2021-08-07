@@ -1,6 +1,6 @@
 ### Hi there, I'm Shashank Shekhar 👋
 
-[![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shashank2k19.github.io/Shashank_Portfolio/)
+[![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
 ## I'm a B.tech Student, Programmer, Web Developer, Graphic Designer and a Freelancer!!
@@ -47,7 +47,7 @@
 
   <img align="left" alt="Shashank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shashank2k19&show_icons=true&hide_border=true" />
 
-[website]: https://shashank2k19.github.io/Shashank_Portfolio/
+[website]: https://mrshekhar.live/
 [twitter]: https://twitter.com/this_is_Shashnk
 [instagram]: https://www.instagram.com/shashank._.shekhar_/?hl=en
 [linkedin]: https://www.linkedin.com/in/shashank-shekhar-523306156/
