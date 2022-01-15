@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
-## I'm a B.tech Student, Programmer, Web Developer, Graphic Designer and a Freelancer!!
+## I'm a B.tech Student, Programmer, Web Developer,Blogger, Graphic Designer and a Freelancer!!
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
@@ -19,6 +19,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<a href="https://dev.to/@shashank2k19" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@shashank2k19" height="30" width="22" /></a>
 
 <br />
 
@@ -57,3 +59,6 @@
 [twitter]: https://twitter.com/this_is_Shashnk
 [instagram]: https://www.instagram.com/shashank._.shekhar_/?hl=en
 [linkedin]: https://www.linkedin.com/in/shashank-shekhar-523306156/
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Shashankshekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashankshekhar" /></a></p><br><br>
