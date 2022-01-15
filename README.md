@@ -1,4 +1,5 @@
 <img align="right" alt="img" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 ### Hi there, I'm Shashank Shekhar 👋
 
 [![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
@@ -6,7 +7,8 @@
 
 ## I'm a B.tech Student, Programmer, Web Developer,Blogger, Graphic Designer and a Freelancer!!
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<!--
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 
 - 🔭 I am pursuing B.Tech [ CSE ] at ITER , Siksha 'O' Anushandhan University
 - 🌱 I’m currently learning Data Structure and Algorithm in Java 🔥
