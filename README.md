@@ -1,9 +1,8 @@
+<img align="right" alt="img" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 ### Hi there, I'm Shashank Shekhar 👋
 
 [![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
-
-<img align="right" alt="img" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ## I'm a B.tech Student, Programmer, Web Developer,Blogger, Graphic Designer and a Freelancer!!
 
