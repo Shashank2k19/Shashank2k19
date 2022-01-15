@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank2k19&label=Profile%20views&color=0e75b6&style=flat" alt="shashank2k19" /> </p>
-
 ## I'm a B.tech Student, Programmer, Web Developer,Blogger, Graphic Designer and a Freelancer!!
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -45,6 +43,8 @@
 
 <img img align="left" alt="Php" width="30px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 
+<img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -62,4 +62,7 @@
 [linkedin]: https://www.linkedin.com/in/shashank-shekhar-523306156/
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Shashankshekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashankshekhar" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Shashankshekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashankshekhar" /></a>
+</p>
+<br>
+<br>
