@@ -65,9 +65,8 @@
 [linkedin]: https://www.linkedin.com/in/shashank-shekhar-523306156/
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Shashankshekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashankshekhar" /></a>
-</p>
+<a href="https://www.buymeacoffee.com/Shashankshekhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashankshekhar" /></a>
+<br>
+<br>
 
-<br>
-<br>
 ![snake gif](https://github.com/shashank2k19/shashank2k19/blob/output/github-contribution-grid-snake.gif)
