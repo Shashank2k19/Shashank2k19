@@ -32,13 +32,13 @@
 <p align="left">
 
 <a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://numpy.org" target="_blank"> 
- <img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" alt="Numpy" width="40" height="40"/> </a>
+ <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="40" height="40"/> </a>
 
 <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
 <img src="https://skeptric.com/images/pandas.png" alt="Pandas" width="40" height="40"/> </a>
