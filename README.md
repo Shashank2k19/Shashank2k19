@@ -10,10 +10,10 @@
 <!--
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 
-- 🔭 I am pursuing B.Tech [ CSE ] at ITER , Siksha 'O' Anushandhan University
+- 🔭 I have completed B.Tech [ CSE ] at ITER , Siksha 'O' Anushandhan University
 - 🌱 I’m currently learning Data Structure and Algorithm in Java 🔥
 - 👯 I’m looking to Work on Web development Projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 📝 Roadmap to being a Full Stack Web Developer [https://dev.to/shashank2k19](https://dev.to/shashank2k19/roadmap-to-being-a-full-stack-web-developer-11m7)
 - ⚡ Fun fact: Always Busy in BGMI 🔫
 
