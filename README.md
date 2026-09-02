@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Shashank Shekhar 👋
 
-[![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrshekhar.live/)
+[![Website](https://img.shields.io/website?label=mr.Shekhar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://mrshekhar.live/](https://shashank2k19.github.io/shashank_portfolio/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/this_is_Shashnk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/this_is_Shashnk)
 
 ## I'm a B.tech Student, Programmer, Web Developer, Blogger, Graphic Designer and a Freelancer!!
